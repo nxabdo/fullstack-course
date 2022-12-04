@@ -1,4 +1,4 @@
-#fullstack-course-html
+# fullstack-course-html
 
 Hello! Join me along my journey towards becoming a full stack developer :)
 
